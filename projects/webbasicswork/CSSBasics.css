@@ -1,0 +1,38 @@
+.masthead-intro,
+.masthead-heading {
+  text-align: center;
+}
+.masthead {
+  padding: 6em 0;
+}
+
+.masthead-heading {
+  margin-bottom: 0.3em;
+}
+
+.masthead-heading {
+  font-family: 'Times New Roman', Times, serif;
+  font-size:48;
+  color:orangered;
+}
+.masthead-intro {
+  margin-top:  -.2em
+}
+.info h1 {
+  text-align:center;
+}
+.info-container {
+  text-align:center;
+}
+.info {
+  font-family:cursive;
+  font-size:12;
+  border:orangered; 
+  border-style:solid;
+  border-width:5px;
+  vertical-align:top;
+  display:inline-block;
+  width:30%;
+  padding-left:20px;
+  box-sizing:border-box;
+}

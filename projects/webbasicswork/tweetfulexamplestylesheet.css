@@ -1,0 +1,34 @@
+.masthead-heading {
+    text-align:center;
+    font-size: 36;
+    margin-top:-.2em;
+    margin-bottom: .2em;
+
+}
+
+.masthead-intro {
+    text-align:center;
+    font-size: 32;
+    margin-bottom: .3em;
+    margin-top:-.5em;
+}
+.masthead {
+    padding: 03em 0;
+}
+
+.info-container {
+    text-align:center;
+}
+
+.info-heading {
+    margin-top:-1em;
+}
+
+.info {
+    font-size:12;
+    vertical-align:top;
+    display:inline-block;
+    width:30%;
+    box-sizing:border-box;
+    padding-left: 30px;
+}
